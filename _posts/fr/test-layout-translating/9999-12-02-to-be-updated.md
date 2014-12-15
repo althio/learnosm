@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: À jour
+title: À revoir
 permalink: /fr/test-layout-translating/to-be-updated/
 lang: fr
 category: test-layout-translating
