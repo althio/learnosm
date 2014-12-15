@@ -6,4 +6,6 @@ lang: fr
 category: test-layout-translating
 ---
 
+La chaîne de caractère de l'en-tête n'est pas définie.
+
 Cette page est n'est traduite.
