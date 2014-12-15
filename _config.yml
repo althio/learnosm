@@ -20,6 +20,7 @@ translations:
     feedbackspan: "Was this chapter helpful?"
     feedback: "Let us know and help us improve the guides!"
     getstarted: "Get started"
+    translating: "This section of LearnOSM is in the process of being translated. If you would like to assist with translating this site, please see [CONTRIBUTING.md](https://github.com/hotosm/learnosm/blob/gh-pages/CONTRIBUTING.md)."
   es:
     tagline: "Aprende OpenStreetMap Paso a Paso"
     contribute: "Ayuda a mejorar las guías"
@@ -36,6 +37,7 @@ translations:
     feedbackspan: "Avez-vous trouvé ce chapitre utile ?"
     feedback: "Aidez-nous à améliorer ces guides en donnant vos impressions!"
     getstarted: "Commencer"
+    translating: "Cette page de LearnOSM est en cours de traduction. Si vous voulez aider pour d'autres pages, rendez-vous sur [CONTRIBUTING.md](https://github.com/hotosm/learnosm/blob/gh-pages/CONTRIBUTING.md)."
   bi:
     overview: "Ringkasan"
     tagline: "Pelajari OpenStreetMap Langkah Demi Langkah"
