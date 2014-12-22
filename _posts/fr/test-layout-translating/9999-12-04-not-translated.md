@@ -6,6 +6,9 @@ lang: fr
 category: test-layout-translating
 ---
 
-La chaîne de caractère de l'en-tête n'est pas définie.
+Contents:
 
-Cette page est n'est traduite.
+en: This is a sample. This page could be filled with lot of interesting stuff.
+It is available in English but not translated.
+
+fr: Rien.

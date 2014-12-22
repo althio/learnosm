@@ -6,4 +6,9 @@ lang: fr
 category: test-layout-translating
 ---
 
-Cette page est en cours de traduction.
+Contents:
+
+en: This is a sample. This page could be filled with lot of interesting stuff.
+The translation to another language is in progress.
+
+fr: Cette page est en cours de traduction.

@@ -6,4 +6,9 @@ lang: fr
 category: test-layout-translating
 ---
 
-Cette page est complètement traduite et à jour.
+Contents:
+
+en: This is a sample. This page could be filled with lot of interesting stuff.
+It has been translated into another language and published in this language.
+
+fr: Cette page est traduite.
